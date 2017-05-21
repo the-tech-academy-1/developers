@@ -1,8 +1,7 @@
 -The Tech Academy - Developer Team Roster
 -
 -Please type your first name and last initial on the proceeding lines...
-------------------------------------------------------------------------
-Joseph G.
+Joseph G. -----------------------------------------------------------------------
 Samme Q.
 Peter R.
 Max J.
