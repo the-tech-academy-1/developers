@@ -2,7 +2,7 @@
 -The Tech Academy - Developer Team Roster
 -
 -Please type your first name and last initial on the proceeding lines...
-John S.IV
+John S.
 Lyci G.X
 Travis T.
 Seth J.
