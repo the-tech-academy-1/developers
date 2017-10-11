@@ -1,0 +1,434 @@
+/*==============================
+	Author: William Spicer
+	
+ BODY, HEAD AND FOOTER
+ */
+ 
+ html {
+	 font-family: sans-serif, comic-sans;
+	 font-size: 62.5%;
+	 -webkit-tap-highlight-color: rgba(0,0,0,0);
+	 -ms-text-size-adjust:100%; 
+ }
+ 
+ body {
+	 font-size:14px;
+	 margin:0;
+	 font-family: "Helvetica Neue", Helvetica, sans-serif;
+	 line-height: 1.4285;
+	 color: #333;
+	 background-color:#fff;
+ }
+ 
+ footer,nav {
+	 display:block;
+ }
+ 
+ h1,h2,h3,h4,h5,h6 {
+	 font-family: 'Open Sans', sans-serif;
+ }
+ 
+ 
+ h1 {
+	 line-height:50px;
+	 font-weight:900;
+	 font-size:30px;
+	 text-transform:uppercase;
+	 text-align:center;
+	 color: #2980B9;
+	  text-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+ }
+ 
+ h1:after { /* This is the underline */
+	display:block;
+	content: "";
+	height: 2px;
+	width: 150px;
+	background: #2980B9;
+	margin: 5px auto 40px;
+	box-shadow: 5px 2px 3px rgba(0,0,0,0.5);
+ }
+ 
+ h2 {
+	 line-height: 50px;
+	 color:#2980B9;
+ }
+ 
+ h3 {
+	 line-height: 30px;
+	 padding-bottom:20px;
+ }
+ 
+ 
+ h4 {
+	 padding-top: 25px;
+	 line-height: 40px;
+	 padding-bottom:0px;
+	 font-size:22px;
+	 font-weight:900;
+ }
+ 
+ .text-center {
+	text-align: center;
+ }
+ 
+ .heading-padding {
+	 padding-bottom: 40px;
+ } 
+ 
+ section {
+	 padding-top: 50px;
+	 margin-top:50px;
+ }
+ 
+ .navbar {
+	 height: 105px;
+	 max-height: 340px;
+	 display: block;
+ }
+ 
+ .container {
+	 padding-right: 15px;
+	 padding-left: 15px;
+	 padding-right: auto;
+	 padding-left: auto;
+ }
+ 
+ .row {
+	 margin-right: -15px;
+	 margin-left: -15px;
+ }
+ 
+  .clearfix:after,
+ .container:after,
+ .navbar:after {
+	 clear:both;
+	 display:table;
+	 content: " ";
+ }
+ 
+ 
+ .wrap {
+	 height : 100%;
+	 width: 100%;
+	 position: absolute;
+	 /* this ensures that the images cannot render outside of their container
+	 */
+	 overflow: hidden;
+	 top: 0;
+	 left: 0;
+	 text-align: center;
+ } 
+ 
+ .menu-container {
+	 max-height: 340px; 
+	 margin: 0% auto;
+	 content: " ";
+	 width: 100%;
+	 position: fixed;
+	 z-index: 100;
+	
+ } 
+ 
+ 
+ 
+ /* =========================
+	HOME SECTION STYLES
+	========================== */	
+	
+	#home {
+		background: url(../pics/mypicture2.jpg) no-repeat 50% 50%;
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		width: 100%;
+		display: block; 
+		height: auto;
+		padding-top: 350px; /* this is spacer before the main title logo */
+		padding-bottom: 350px; /* spacing after main title logo */
+		 color: #fff; 
+	}
+	
+	.head-main {
+	text-shadow: 2px 4px 5px rgba(0,0,0,0.9);
+	font-variant: small-caps;
+	color:#fff;
+	letter-spacing: 5pt;
+	word-spacing: 18.5pt;
+	font-size: 4.5em;
+	text-align: left;
+	font-family: impact, sans-serif;
+	line-height: 2;
+	font-weight: 900;
+	border: 5px double #F1C40F;
+	padding: 10px;
+	}
+	
+	.head-sub-main {
+		font-size: 23px;
+		font-weight: 500;
+		padding: 50px 20px 10px 20px;
+		text-transform: uppercase;
+	}
+	
+	.head-last {
+		font-size: 10px;
+		font-weight: 900;
+		padding: 5px 20px 20px 20px;
+		border: 1px dotted #fff;
+		padding: 5px;
+	}
+	
+	
+	 /* =========================
+	CONTACT STYLES
+	========================== */	
+	
+	.flex-container {
+		display: -webkit-flex;
+		display: flex;
+		flex-wrap: wrap;
+		padding: 10px;
+		border-radius:8px;
+		margin: 0px auto;
+		background-color: #F7DC6F;
+		box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
+	}
+	
+#contact {
+	background-color: #FCF3CF;
+}
+
+.reservation {
+	width: 60%;
+	padding: 10px;
+	border-radius: 8px;
+	margin: 0px auto;
+	background-color: #F7DC6F;
+	box-shadow: -1px -1px 1px 0px rgba(0,0,0,0.1), 1px 2px 10px 0 rgba(0,0,0,0.5);
+}
+
+.reservation h2{
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+	color: #13161B;
+	font-weight: 500;
+	font-size: 1.3em;
+	letter-spacing: 0pt;
+	word-spacing: 0pt;
+}
+.reservation h2 span {
+	width: 70%;
+	text-align: center;
+	margin: 0 auto;
+	color: #13161B;
+	font-weight: 900;
+	font-size: 1.5em;
+	font-variant: small-caps;
+	letter-spacing: .4pt;
+	word-spacing: .3pt;
+}
+.reservation p {
+	color: #13161B;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.reservation form {
+	font-size: 15px;
+	outline: none;
+	font-weight:600px;
+	color: #8d8e6f;
+	padding: 12px 12px;
+	width:70%;
+	border:1px solid #808080;
+	margin: 2% auto;
+	border-radius:7px;
+	background: rgb(227,222,222);
+	box-shadow:3px 3px 3px 0px rgba(0,0,0,0.3);
+	font-family: "Raleway", sans-serif;
+}
+
+.reservation input[type="text"] {
+	font-size: 15px;
+	outline: none;
+	font-weight:600px;
+	color: #8d8e6f;
+	padding: 2% 1% 2% 7%;
+	width:80%;
+	border-top:1px solid #090b0d;
+	border-right: 2px solid #424549;
+	border-bottom: 2px solid #424549;
+	border-left: 1px solid #090b0d;
+	margin: 10px 1em;
+	border-radius:7px;
+	background: #fff;
+	box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,0.15);
+	font-family: "Raleway", sans-serif;
+}
+
+.reservation input[type="text"]:hover {
+	box-shadow: 0 0 18px rgba(100,65,0,0.8);
+}
+.form-spacer {
+	padding: 25px 39px;
+}
+
+.terms {
+	margin: 30px 1px 0 0;
+	padding-left: 52px;
+	font-size:14px;
+	line-height: 5px;
+	color: #000;
+	cursor: pointer;
+	font-family: 'Raleway',sans-serif;
+	font-weight: 600;
+	position: relative;
+	display:inline;
+	float:right;
+}
+.terms:hover {
+	color:blue;
+	text-decoration:underline;
+}
+
+.submit input[type="submit"] {
+	color: rgb(225,225,225);
+	cursor: pointer;
+	border:none;
+	font-weight: 900;
+	outline: none;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	margin: 0px 3%;
+	padding: 7px 0px;
+	width:25%;
+	font-size: 10px;
+	transition: border-color 0.3s color 0.3s background-color 0.3s;
+	border-radius: 7px;
+	background-color: #3498DB;
+	box-shadow: 1px 1px 4px 0 rgba(0,0,0,0.3);
+}
+.submit input[type= "submit"]:hover {
+	color:#000;
+	background-color:#000
+	box-shadow: inset 1px 2px 15px 0 rgba(0,0,0,0.5);
+}
+
+/* =========================
+	FOOTER STYLES
+	========================== */	
+	#footer {
+		background-color:  #566573;
+		color: #000;
+		text-shadow:2px 2px 0px 0 (0,0,0,0.4);
+		padding:20px 50px 20px 50px;
+		text-align: right;
+	}
+	
+	
+	
+	/* =========================
+	ANIMATION MENU
+	========================== */	
+	.menu {
+		color: #f00;
+		font: bold 12px/18px sans-serif;
+		text-align: center;
+		display: inline;
+		margin: 0% auto;
+		padding: 0;
+		list-style: none;
+		text-decoration: none;
+	}
+	
+	.menu li {
+		color: #000;
+		background-color: rgba(255,255,255,1);
+		display: inline-block;
+		margin: 0% auto;
+		position: relative;
+		padding: 15px 4%;
+		border: 1px solid #9d9fa2;
+		box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
+		border-radius:6px;
+		cursor: pointer;
+		transition-property: background;
+		transition-duration: .4s;
+		transition-delay: 0s;
+		transition-timing-function: ease-in-out;
+	}
+	.menu li:hover {
+		color:#F7DC6F;
+		background-color: #FFF;
+	}
+	
+	
+	/* =========================
+	GALLERY SECTION ANIMATION
+	========================== */	
+	
+	.photo {
+		position: relative;
+		line-height: 0;
+		margin-bottom: 2em;
+		overflow: hidden;
+		border-radius: 8px;
+		padding:1px;
+		border:1px solid #021a40;
+		background-color:#FCF3CF;
+		box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.7);
+	}
+	.photo-container{
+		text-align:center;
+		margin:15px auto;
+		
+	}
+	
+	.photo-container{
+		max-width: 100%;
+	}
+	
+	.photo-overlay{
+		color:#fff;
+		position:absolute;
+		top:0;
+		bottom:0;
+		right:0;
+		left:0;
+		padding-left:20px;
+		padding-right:20px;
+		justify-content: center; /* for centering inside overlay */
+		align-items: center;
+		background: rgba(0,0,0,.5);
+	}
+	
+	.white-head {
+		color:#c9bdaa;
+		margin-top:5%;
+	}
+	
+	/* =========================
+	PHOTO OVERLAY TRANSITION
+	========================== */	
+	.photo-overlay {
+		opacity: 0;
+		transition: opacity .5s;
+		border-radius: 10px;
+		cursor: pointer;
+	}
+	.photo-overlay:hover {
+		opacity: 1;
+	}
+	
+	.photo img {
+		transition: transform .5s;
+		transform-origin: 50% 50%;
+	}
+	
+	.photo:hover img{
+		transform: scale(1,1);
+	}
