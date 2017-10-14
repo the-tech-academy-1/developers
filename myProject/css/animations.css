@@ -1,0 +1,107 @@
+/*=======================================
+  MENU SECTION ANIMATION
+  =======================================*/
+
+.menu {
+	color: #f00;
+	font: bold 12px/18px sans-serif;
+	text-align: center;
+	display: inline;
+	margin: 0% auto;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.menu li {
+	color: #000;
+	background-color: rgba(255, 255, 255, 1);
+	display: inline-block;
+	margin: 0% auto;
+	position: relative;
+	padding: 15px 4%;
+	border: 1px solid #9D9FA2;
+	box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.5);
+	border-radius: 6px;
+	/*background-color: #052136;*/
+	cursor: pointer;
+	transition-property: background;
+	transition-duration: .4s;
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+}
+
+.menu li:hover {
+	color: #f00;
+	background-color: rgba(100,65,0,.3);
+}
+
+/*=======================================
+  GALLERY SECTION ANIMATION
+  =======================================*/
+.photo {
+	position: relative;
+	line-height: 0;
+	margin-bottom: 2em;
+	overflow: hidden;
+	border-radius: 8px;
+	padding:1px;
+	border:1px solid #021a40;
+	background-color: #ff0;
+	box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.7);
+}
+
+.photo-container {
+	text-align: center;
+	margin: 15px auto;
+	width: 300px;
+    height: 169px;
+}
+
+.photo-container img {
+ 	max-width: 100%;
+	width: 300px;
+	height: 169px;
+}
+
+.photo-overlay {
+	color: #fff;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0; 
+	left: 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	justify-content: center; /* For centering text inside .photo-overlay */
+	align-items: center;
+	background: rgba(0,0,0, .5);
+}
+
+.white-head {
+	color: #C9BDAA;
+	margin-top: 5%;
+}
+
+/* ================================= 
+  Photo Overlay Transitions
+==================================== */
+
+.photo-overlay {
+	opacity: 0;
+	transition: opacity .5s;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.photo-overlay:hover {
+	opacity: 1;
+}
+
+.photo img {
+	transition: transform .5s;
+	transform-origin: 50% 50%;
+}
+
+.photo:hover img {
+	transform: scale(1.1);
+}
