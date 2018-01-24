@@ -2,6 +2,7 @@
 -The Tech Academy - Developer Team Roster
 -
 -Please type your first name and last initial on the proceeding lines...
+
 Lyci G.X
 Travis T.
 Seth J.
@@ -72,3 +73,4 @@ Jermaine B.
 Jennifer P.
 Peter M.
 Joshua J.
+Brandon I.
