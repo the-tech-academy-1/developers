@@ -1,0 +1,28 @@
+body {
+	background-color: #ffffff;
+}
+
+.header-title {
+	padding-top: 50px;
+	margin-right: 15px;
+	text-align: center;
+	font-size: 50px;
+	color: #000000;
+	text-shadow: 2px 2px 25px #00ff00;
+	font-weight: ;
+}
+
+nav {
+	padding-top: 50px;
+	text-align: center;
+}	
+
+.links {
+	margin-right: 15px;
+	text-align: center;
+}	
+
+.image {
+	margin-top: 40px;
+	text-align: center;
+}	
