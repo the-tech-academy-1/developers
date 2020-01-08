@@ -2,84 +2,84 @@
 -The Tech Academy - Developer Team Roster
 -
 -Please type your first name and last initial on the proceeding lines...
-
-Erin C.
-Lyci G.X
-Travis T.
-Seth J.
-TJ T.
-Samme Q.
-Peter R.
-Max J.
-John V.
-Andrew B.
-Aaron M.
-Joshua B.
-JoshBatchelor777
-Daniel C.
-Garrett B.
-Stephanie P.
-Mike E.
-Vaylain.
-George W.
-Matt S.
-Chris L.
-Reis M.
-Duncan G.
-Bryce T.
-Austin C.
-Riley M.
-Russell S.
-CJ J.
-Anthony J.
-Russell S.
-Fumi M.
-Bill B.
-Ricky L.
-Luis L.
-Andrew D.
-John G.
-Kelli D.
-Ryan V.
-Nicholas G.
-Roman S.
-Carrie D.
-Rian J. 
-Laurie R.
-Zach F.
-Dylan L.
-Sagar A.
-Zach F.
-min yun.
-Oliver F.
-Seth Musich
-Tony B.
-Samuel Wright
-Matthias W.
-Jennifer B.
-Stephen T.
-Brian M.
-Sean G.
-Jeff F.
-Julia C.
-Jonathan G.
-Daler R-Z. 
-Alissa D.
-James R.
-Taylor H.
-KEVIN G.
-Tyler G
-Molly B.
-Jermaine B.
-Jennifer P.
-Peter M.
-
-Alyssa G.
-=======
-Joshua J.
- testrun
-Joseph Rusk 
-=======
-Brandon 
-Alex H
-
+ Peter G.
+Erin C. Peter G.
+Lyci G.X Peter G.
+Travis T. Peter G.
+Seth J. Peter G.
+TJ T. Peter G.
+Samme Q. Peter G.
+Peter R. Peter G.
+Max J. Peter G.
+John V. Peter G.
+Andrew B. Peter G.
+Aaron M. Peter G.
+Joshua B. Peter G.
+JoshBatchelor777 Peter G.
+Daniel C. Peter G.
+Garrett B. Peter G.
+Stephanie P. Peter G.
+Mike E. Peter G.
+Vaylain. Peter G.
+George W. Peter G.
+Matt S. Peter G.
+Chris L. Peter G.
+Reis M. Peter G.
+Duncan G. Peter G.
+Bryce T. Peter G.
+Austin C. Peter G.
+Riley M. Peter G.
+Russell S. Peter G.
+CJ J. Peter G.
+Anthony J. Peter G.
+Russell S. Peter G.
+Fumi M. Peter G.
+Bill B. Peter G.
+Ricky L. Peter G.
+Luis L. Peter G.
+Andrew D. Peter G.
+John G. Peter G.
+Kelli D. Peter G.
+Ryan V. Peter G.
+Nicholas G. Peter G.
+Roman S. Peter G.
+Carrie D. Peter G.
+Rian J.  Peter G.
+Laurie R. Peter G.
+Zach F. Peter G.
+Dylan L. Peter G.
+Sagar A. Peter G.
+Zach F. Peter G.
+min yun. Peter G.
+Oliver F. Peter G.
+Seth Musich Peter G.
+Tony B. Peter G.
+Samuel Wright Peter G.
+Matthias W. Peter G.
+Jennifer B. Peter G.
+Stephen T. Peter G.
+Brian M. Peter G.
+Sean G. Peter G.
+Jeff F. Peter G.
+Julia C. Peter G.
+Jonathan G. Peter G.
+Daler R-Z.  Peter G.
+Alissa D. Peter G.
+James R. Peter G.
+Taylor H. Peter G.
+KEVIN G. Peter G.
+Tyler G Peter G.
+Molly B. Peter G.
+Jermaine B. Peter G.
+Jennifer P. Peter G.
+Peter M. Peter G.
+ Peter G.
+Alyssa G. Peter G.
+======= Peter G.
+Joshua J. Peter G.
+ testrun Peter G.
+Joseph Rusk  Peter G.
+======= Peter G.
+Brandon  Peter G.
+Alex H Peter G.
+ Peter G.
