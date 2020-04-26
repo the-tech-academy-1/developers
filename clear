@@ -1,0 +1,568 @@
+[33mcommit 758be89c1f6e069fa991f429fc048da0733e40bc[m[33m ([m[1;36mHEAD -> [m[1;32mtestrun[m[33m)[m
+Author: Justin Perry <jadamsperry@gmail.com>
+Date:   Sun Apr 26 11:20:49 2020 -0600
+
+    Add name to dev_roster.txt
+
+[33mcommit 740d752bc6589011fd001b580bdea1c44abb853d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: d90ba01 a1132c5
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Fri Feb 9 11:09:35 2018 -0800
+
+    Merge pull request #192 from Ahammond9260/testrun
+    
+    Testrun
+
+[33mcommit a1132c5580865c393ebb57b0797f545c11f90dbc[m
+Author: Alex <ahammond9260@gmail.com>
+Date:   Fri Feb 9 10:56:15 2018 -0800
+
+    Corrected my name on the roster
+
+[33mcommit d90ba0118007eeadeacf4ee3eebdcd82eb088ad0[m
+Merge: 0f1c12b 5057bc5
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Fri Feb 9 10:46:50 2018 -0800
+
+    Merge pull request #191 from ecallison/testrun
+    
+    I added my name to this txt file
+
+[33mcommit 5057bc53ad53a7a2e931c30b63d60479436dd6a1[m
+Author: unknown <erinjccallison@yahoo.com>
+Date:   Thu Feb 8 15:28:41 2018 -0800
+
+    I added my name to this txt file
+
+[33mcommit ccbbd1b4b60004f6128021c4e5cceb7782cbdc72[m
+Author: Alex <ahammond9260@gmail.com>
+Date:   Thu Feb 8 15:13:10 2018 -0800
+
+    added my full name
+
+[33mcommit 590772195e6ebfe73218add2d09c40f355d88b84[m
+Author: Alex <ahammond9260@gmail.com>
+Date:   Thu Feb 8 14:57:25 2018 -0800
+
+    Added my name
+
+[33mcommit 0f1c12bfa4af73fbaa56b746bf377832eb2f8303[m
+Merge: 2b23e74 26a887a
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jan 24 14:05:30 2018 -0800
+
+    Merge pull request #177 from agibson264/testRun2
+    
+    Added my name
+
+[33mcommit 26a887a7e966c9387302174628ef3f0b4184ad44[m
+Merge: c062c71 2b23e74
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jan 24 14:05:24 2018 -0800
+
+    Merge branch 'master' into testRun2
+
+[33mcommit 2b23e741a5a07cec51fd2114f69b90412ea820ae[m
+Merge: 2d8b921 ffad9b3
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jan 24 14:04:59 2018 -0800
+
+    Merge pull request #178 from josephrayrusk/testrun
+    
+    Testrun
+
+[33mcommit ffad9b3ad863512d5efb5d1c52d74d266c339320[m
+Merge: 054de34 2d8b921
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jan 24 14:04:48 2018 -0800
+
+    Merge branch 'master' into testrun
+
+[33mcommit 2d8b921d2f21bef6d6abf0e00e21f97d1d9c3d83[m
+Merge: f877143 e57c377
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jan 24 14:02:14 2018 -0800
+
+    Merge pull request #179 from brandoninsel/testrun
+    
+    Testrun
+
+[33mcommit e57c37778463247f45a71d95508e8f03e35a5449[m
+Author: Lo-Ling Insel <Lo-Ling@Lo-Lings-MBP.attlocal.net>
+Date:   Tue Jan 23 10:32:34 2018 -0600
+
+    Added my name
+
+[33mcommit 054de3432a14138d1df7ffddec9c5f5fb509dc46[m
+Author: Joseph Rusk <josephraylee@gmail.com>
+Date:   Mon Jan 22 18:25:28 2018 -0800
+
+    Adding my name
+
+[33mcommit 0d03f2d3cc29c1f9e203055c6a0a5ac4d8a8668d[m
+Author: Joseph Rusk <josephraylee@gmail.com>
+Date:   Mon Jan 22 18:17:21 2018 -0800
+
+    Adding my name
+
+[33mcommit 79f2cad58984f3a9f4c2773fb5190966ce135a26[m
+Author: Lo-Ling Insel <Lo-Ling@Lo-Lings-MBP.attlocal.net>
+Date:   Mon Jan 22 19:36:40 2018 -0600
+
+    Added my name
+
+[33mcommit c062c71fbde89ff2612c8b8fc1328fe7609ebe29[m
+Author: Student@DESKTOP-9VF0GNC <wd.alyssagibson@gmail.com>
+Date:   Mon Jan 22 11:32:32 2018 -0800
+
+    Added my name
+
+[33mcommit f87714301e03499495ba3a08a2699e2569e22cb7[m
+Merge: 30e46c9 1db860d
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Jan 22 10:05:54 2018 -0800
+
+    Merge pull request #176 from jhunschejones/testrun
+    
+    Adding my name
+
+[33mcommit 1db860d5922e11aad32eaa8396f0874731c6b3a0[m
+Author: Joshua Jones <joshjones103@gmail.com>
+Date:   Fri Jan 19 18:57:02 2018 -0800
+
+    Adding my name
+
+[33mcommit 30e46c9e59acecda898acc113cb8a16c2434d246[m
+Merge: 5aea17d d750522
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Dec 21 15:20:37 2017 -0800
+
+    Merge pull request #162 from pmangione/testrun2
+    
+    Adding my name
+
+[33mcommit d7505227fe9f033f24e389a906c22d9c49979814[m
+Author: Peter <Peter@example.com>
+Date:   Thu Dec 21 17:04:19 2017 -0500
+
+    Adding my name
+
+[33mcommit 5aea17d893ff8f5bf097d4bd13ca80f8857dd9f1[m
+Merge: 7095a7a 683a8a5
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Nov 20 10:11:54 2017 -0800
+
+    Merge pull request #147 from jentpan/testrun
+    
+    adding my name
+
+[33mcommit 683a8a5fc7af63a2457174c1a3759b02c79dd794[m
+Author: unknown <jentpan@gmail.com>
+Date:   Sun Nov 19 18:18:29 2017 -0800
+
+    adding my name
+
+[33mcommit 7095a7a7ca6b27fada7035e7268b18fed741062e[m
+Merge: dcdde4f 1a700f8
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Oct 11 09:54:24 2017 -0700
+
+    Merge pull request #130 from jmbracy/testrun
+    
+    Testrun
+
+[33mcommit 1a700f8262086717a4dc39136b2e7eb53ea19aed[m
+Author: jmbracy <marsalis@live.com>
+Date:   Tue Oct 10 22:37:24 2017 -0600
+
+    Adding my name
+
+[33mcommit dcdde4fc22a2143cd3c13d095b96392f19217bd1[m
+Merge: dd21565 521c021
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Aug 31 12:00:05 2017 -0700
+
+    Merge pull request #95 from mmutton/testrun
+    
+    Testrun
+
+[33mcommit 521c021065b2e661f72d988572343677695832ef[m
+Author: mmutton <itsmolly@mac.com>
+Date:   Thu Aug 31 11:07:33 2017 -0700
+
+    Adding my name
+
+[33mcommit dd21565ccbedf8296ec2d9dd43296ef57db90486[m
+Merge: 91a1ef8 2418ce7
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Aug 28 10:29:25 2017 -0700
+
+    Merge pull request #93 from tygray6/testrun
+    
+    Testrun
+
+[33mcommit 2418ce7501c0dab03e952247be4afaf113c4393d[m
+Author: Tyler Gray <tygray6@gmail.com>
+Date:   Sun Aug 27 20:20:15 2017 -0400
+
+    Added name roster
+
+[33mcommit e70ce65a16e4703273061987b38185d57adeabaa[m
+Author: Tyler Gray <tygray6@gmail.com>
+Date:   Sun Aug 27 19:58:01 2017 -0400
+
+    Added name to list
+
+[33mcommit 91a1ef89c345e66d6e98387e297f92ca86b03833[m
+Merge: 99c7594 991281f
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jul 13 10:40:31 2017 -0700
+
+    Merge pull request #77 from oknqll/testrun
+    
+    Add Kevin G.
+
+[33mcommit 991281f9550534d2926a92df41fbfeda93590287[m
+Author: Kevin_Gillispie <oakenquill@gmail.com>
+Date:   Thu Jul 13 09:56:31 2017 -0700
+
+    Add Kevin G.
+
+[33mcommit 99c759427294e4b42a5999c4a5f71f7658fd7c07[m
+Merge: 5a88a47 e2046b0
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jul 11 15:17:24 2017 -0700
+
+    Merge pull request #76 from tayharrison/testrun
+    
+    Added my name to roster
+
+[33mcommit e2046b03908da7e04b41264b1044b9913a1ca6c7[m
+Author: Taylor <taymkelley@gmail.com>
+Date:   Mon Jul 10 18:55:42 2017 -0700
+
+    Added my name to roster
+
+[33mcommit 5a88a470170a52c53b2ead75b4465434f36b8629[m
+Merge: ab526a2 5c2ddc7
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Jul 10 13:53:14 2017 -0700
+
+    Merge pull request #75 from jroper1130/testrun
+    
+    changing name
+
+[33mcommit 5c2ddc78ee371fe2530cbf7e144f6fb2d892ef10[m
+Author: jroper1130 <warbeast78@hotmail.com>
+Date:   Fri Jul 7 16:31:00 2017 -0700
+
+    changing name
+
+[33mcommit ab526a23b5d86b98d82f5d4bab6992eccf8d68fb[m
+Merge: 9661e99 5c52425
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jul 5 11:29:00 2017 -0700
+
+    Merge pull request #74 from MelodyMalone/textrun
+    
+    Added my name to the roster.
+
+[33mcommit 5c5242561d663759d61495a685e687d9a1024c54[m
+Author: Alissa <alissadeneen@gmail.com>
+Date:   Sun Jul 2 02:58:53 2017 -0700
+
+    Added my name to the roster.
+
+[33mcommit 9661e99ce04dcd2da948701cb0568dc283da558a[m
+Merge: 3a004ca e9c0d8e
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jun 29 13:01:33 2017 -0700
+
+    Merge pull request #73 from Jeff-W-Ferrell/testrun
+    
+    Adding myself to the GitHub Tech Academy Roster via Git
+
+[33mcommit e9c0d8e9aea0b261f74d6dccbcf0f6eab08770e4[m
+Merge: 3e93029 3a004ca
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jun 29 13:01:26 2017 -0700
+
+    Merge branch 'master' into testrun
+
+[33mcommit 3a004ca97008e5bdf9a762525287c9636efdd1b7[m
+Merge: 113bcd6 3f420d0
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jun 29 09:15:40 2017 -0700
+
+    Merge pull request #72 from JCCervantes/testrun
+    
+    Testrun
+
+[33mcommit 3f420d0c8531c97e67614d8d1be6427dc1f24f45[m
+Merge: 3393eb7 113bcd6
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jun 29 09:15:30 2017 -0700
+
+    Merge branch 'master' into testrun
+
+[33mcommit 3e93029f9607d9431ceb4369c3b610bab38e3c1c[m
+Author: Jeff Ferrell <jwferrell78@gmail.com>
+Date:   Wed Jun 28 23:28:08 2017 -0700
+
+    Adding myself to the GitHub Tech Academy Roster via Git
+
+[33mcommit 113bcd62cf453c47f4cc3633f718176dea83dd55[m
+Merge: 723036b fd0b0ac
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 28 10:48:24 2017 -0700
+
+    Merge pull request #70 from lycigv/testrun
+    
+    Testrun
+
+[33mcommit fd0b0ac4d556693fcbd4d39897a3a28ae7ba3de1[m
+Author: Lyci <lycigv@gmail.com>
+Date:   Wed Jun 28 10:44:34 2017 -0700
+
+    adding LG
+
+[33mcommit b210a7923f97ca5b8966cf1682968c33671e7260[m
+Author: Lyci <lycigv@gmail.com>
+Date:   Wed Jun 28 10:13:04 2017 -0700
+
+    added me
+
+[33mcommit 3393eb7b48229cb686c8ac7240888d790c56c68d[m
+Author: JC Cervantes <julia.c.cervantes@gmail.com>
+Date:   Tue Jun 27 18:05:39 2017 -0700
+
+    Re-added name to roster.
+
+[33mcommit 723036b01970af1bf4aab377e19125054e501656[m
+Merge: d867bf5 46ca7f1
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jun 27 09:35:00 2017 -0700
+
+    Merge pull request #68 from OutrageousPotato/testrun
+    
+    Added my name to the roster
+
+[33mcommit 46ca7f1b3983b44136c579074945b5ed8b0f3571[m
+Merge: b06fcdc d867bf5
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jun 27 09:33:40 2017 -0700
+
+    Merge branch 'master' into testrun
+
+[33mcommit d867bf509e5a1dbeaab75690510c84fa3abea29e[m
+Merge: 14adc3f 91f1367
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jun 27 09:30:48 2017 -0700
+
+    Merge pull request #69 from daler4ik/testrun
+    
+    Adding my name
+
+[33mcommit 91f1367c0af95c6ea76a6375d23f4c30bc4c39d1[m
+Author: Daler RakhmetZade <daler4ik@gmail.com>
+Date:   Tue Jun 27 00:56:05 2017 -0700
+
+    Adding my name
+
+[33mcommit b06fcdce1cb5ed2d52a00f43254341a27708420b[m
+Author: OutrageousPotato <jonathan@gibsonnotes.com>
+Date:   Mon Jun 26 21:46:52 2017 -0700
+
+    Added my name to the roster
+
+[33mcommit cf3212a41c339104e828b621c6394e5531f65fd0[m
+Author: JC Cervantes <julia.c.cervantes@gmail.com>
+Date:   Mon Jun 26 21:11:45 2017 -0700
+
+    Added my name to roster.
+
+[33mcommit 14adc3f588015658341028017758825a5b944429[m
+Merge: 8b75c7b 83f4990
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 21 15:59:46 2017 -0700
+
+    Merge pull request #64 from SeanGoldsmith/testrun
+    
+     Adding my name to dev_roster
+
+[33mcommit 83f49904c3d8dd35814295ef102b8e9ac2d39fba[m
+Author: Sean Goldsmith <sean.goldsmith90@gmail.com>
+Date:   Wed Jun 21 15:12:13 2017 -0700
+
+     Adding my name to dev_roster
+
+[33mcommit 8b75c7be39ddf8f15f001f9c63672cbd1bbf264c[m
+Merge: 94cdcb3 b705093
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 21 11:57:01 2017 -0700
+
+    Merge pull request #62 from travisterwilliger/testrun
+    
+    adding my name to devroster
+
+[33mcommit b70509392a351df88063d7ff9f5560c67d665355[m
+Merge: cca2a08 94cdcb3
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 21 11:56:49 2017 -0700
+
+    Merge branch 'master' into testrun
+
+[33mcommit 94cdcb3aca6d7752fca5ca11b7f13fd7b6acc6d6[m
+Merge: 063a661 a89ecb5
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 21 09:09:55 2017 -0700
+
+    Merge pull request #63 from SethJohnsonPDX/testrun
+    
+    Testrun-seth
+
+[33mcommit a89ecb59d9157b59f7983fb5da11122303fa6255[m
+Author: SethJohnsonPDX <sethjohnsonpdx@gmail.com>
+Date:   Tue Jun 20 22:53:39 2017 -0700
+
+    update name
+
+[33mcommit 613eb17e68144da8ef1e378cf59e3b40e1d72dd6[m
+Author: SethJohnsonPDX <sethjohnsonpdx@gmail.com>
+Date:   Tue Jun 20 22:39:29 2017 -0700
+
+    Adding my name
+
+[33mcommit 063a6619214f2e57d2c19d22af9748069d47724d[m
+Merge: 8a6c454 7a8aa7c
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jun 20 16:57:26 2017 -0700
+
+    Merge pull request #61 from TeeEeehjay/testrun
+    
+    TJ Tabora
+
+[33mcommit cca2a086411d693f0c22222da7da4fa8b85d4689[m
+Author: Travis Miles Terwilliger <TerwilligerTM@gmail.com>
+Date:   Tue Jun 20 14:46:59 2017 -0700
+
+    adding my name to devroster
+
+[33mcommit 7a8aa7c6e9b3877b35ebc62197862dd4327e3ee9[m
+Author: TJ Tabora <tjtabora@gmail.com>
+Date:   Tue Jun 20 14:25:58 2017 -0700
+
+    Added my name
+
+[33mcommit 8a6c45483b8c462a45215e655e74f417ed561186[m
+Merge: 6c8a92e 7e6c66c
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Tue Jun 20 14:21:00 2017 -0700
+
+    Merge pull request #60 from Fredford2000/master
+    
+    added my name
+
+[33mcommit 7e6c66c81010a803efa093ee603573d5c5a807e3[m
+Author: Fredford2000 <camerachord@comcast.net>
+Date:   Mon Jun 19 16:52:45 2017 -0700
+
+    added my name
+
+[33mcommit 6c8a92eaa61199e42915453e6a50d274b17979cf[m
+Merge: db92e9c 888ed78
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Jun 19 16:18:14 2017 -0700
+
+    Merge pull request #52 from ofu997/testrun
+    
+    adding my name
+
+[33mcommit db92e9c4318f546681f8d0d12e4bf3797134a6e4[m
+Merge: 6904e13 5f637b7
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Mon Jun 19 16:17:50 2017 -0700
+
+    Merge pull request #59 from steach02/patch-1
+    
+    Update dev_roster.txt
+
+[33mcommit 5f637b7502aba6920fbea805eab8d71caf0bb65e[m
+Author: steach02 <steach02@seattlecentral.edu>
+Date:   Sun Jun 18 09:53:19 2017 -0700
+
+    Update dev_roster.txt
+
+[33mcommit 6904e136f512ff7b61b4563df1914f3f68f63c6a[m
+Merge: 3112d84 28f794e
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Thu Jun 15 10:09:13 2017 -0700
+
+    Merge pull request #58 from JAGoddardBuckley/testrun
+    
+    JAGoddardBuckley
+
+[33mcommit 28f794eff6f6a5643a95ba63692af5e92cc3da49[m
+Author: Your Name <you@example.com>
+Date:   Wed Jun 14 18:42:10 2017 -0700
+
+    Added my name
+
+[33mcommit 3112d84f98fd331c1da76e41d1c1de1448b7830f[m
+Merge: ee01e93 b93e6eb
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 14 16:35:49 2017 -0700
+
+    Merge pull request #57 from BountyBrothers/testrun
+    
+    Added Matthias W.
+
+[33mcommit b93e6ebedcd8fe7c480d9123b27daa84a11ae128[m
+Author: Matthias <lime811@gmail.com>
+Date:   Wed Jun 14 15:43:34 2017 -0700
+
+    Added Matthias W.
+
+[33mcommit ee01e93e3d4e0a293df14c71fc614bd98b5d6c1a[m
+Merge: 69f20ba cc248d7
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 14 14:45:01 2017 -0700
+
+    Merge pull request #50 from Sparkeyz/testrun2
+    
+    Testrun2
+
+[33mcommit cc248d7386c376384e6379f0805ccad2102e0d09[m
+Merge: 5ea0bdc 69f20ba
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 14 14:44:54 2017 -0700
+
+    Merge branch 'master' into testrun2
+
+[33mcommit 69f20ba4a20e07dce9e39129c804168fe2524a95[m
+Merge: 2f2a03a eb520c2
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Wed Jun 14 14:34:55 2017 -0700
+
+    Merge pull request #56 from LoriLG/master
+    
+    Lori's pull request
+
+[33mcommit eb520c29fdc435f2f06bf85a355e65ea736aa1e2[m
+Author: LoriLG <LLG52931@gmail.com>
+Date:   Wed Jun 14 09:47:10 2017 -0700
+
+    Add files via upload
+
+[33mcommit 2f2a03a9a5b3c3669092f986e2258997d3426361[m
+Merge: e035d99 974494c
+Author: The Tech Academy <instructor@learncodinganywhere.com>
+Date:   Fri Jun 9 16:23:49 2017 -0700
+
+    Merge pull request #54 from samuelmwright/master
+    
+    added name to file
+
+[33mcommit 974494c8c0eae51687ca24563e451ed82cda7b3b[m
+Author: samuelmwright <theoriginal007@msn.com>
+Date:   Fri Jun 9 12:
