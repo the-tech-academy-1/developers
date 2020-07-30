@@ -3,6 +3,7 @@
 -
 -Please type your first name and last initial on the proceeding lines...
 
+Nick B.
 Erin C.
 Lyci G.X
 Travis T.
@@ -73,7 +74,6 @@ Molly B.
 Jermaine B.
 Jennifer P.
 Peter M.
-Nick B.
 
 Alyssa G.
 =======
