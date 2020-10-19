@@ -3,6 +3,7 @@
 -
 -Please type your first name and last initial on the proceeding lines...
 
+Priyanka T.
 Erin C.
 Lyci G.X
 Travis T.
@@ -82,5 +83,5 @@ Joseph Rusk
 =======
 Brandon 
 Alex H
-Priyanka T.
+
 
