@@ -3,6 +3,7 @@
 -
 -Please type your first name and last initial on the proceeding lines...
 
+Chris C.
 Erin C.
 Lyci G.X
 Travis T.
@@ -82,4 +83,3 @@ Joseph Rusk
 =======
 Brandon 
 Alex H
-
